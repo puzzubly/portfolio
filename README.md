@@ -8,8 +8,10 @@ Repository to showcase my work
 
 🐱‍🚀  Worked on the brand toolkit: CSS + googlefonts
 
-🐱‍🚀  Discovered react Icons
+🐱‍🚀  Discovered React Icons
 
 🐱‍🚀  Made a basic landing page
 
-🐱‍🚀  Looking at hosting options, going to use Netlify. I'll need to build the examples and create them on the web too, and link to them from my website?
+🐱‍🚀  Looking at hosting options, going to use Netlify. 
+
+🐱‍🚀  I'll need to build the examples and create them on the web too, and link to them from my website? Researching Gatsby, a static site generator which uses node js, graphQL
