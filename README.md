@@ -10,8 +10,12 @@ Repository to showcase my work
 
 🐱‍🚀  Discovered React Icons
 
-🐱‍🚀  Made a basic landing page
-
 🐱‍🚀  Looking at hosting options, going to use Netlify. 
 
-🐱‍🚀  I'll need to build the examples and create them on the web too, and link to them from my website? Researching Gatsby, a static site generator which uses node js, graphQL
+🐱‍🚀  I'll need to build the examples and create them on the web too, and link to them from my website? 
+
+🐱‍🚀  Started a blog on medium
+
+🐱‍🚀  Designed the landing page: 
+
+![landing-page](https://user-images.githubusercontent.com/91314936/163555735-54b99dd8-05df-441e-a665-a79d29fa286a.PNG)
