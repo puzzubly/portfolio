@@ -10,7 +10,7 @@ Repository to showcase my work
 
 🐱‍🚀  Discovered React Icons
 
-🐱‍🚀  Looking at hosting options, going to use Netlify. 
+🐱‍🚀  Looking at hosting options, going to use Netlify / Vercel to deploy 
 
 🐱‍🚀  I'll need to build the examples and create them on the web too, and link to them from my website? 
 
@@ -18,6 +18,8 @@ Repository to showcase my work
 
 🐱‍🚀  Designed the landing page: 
 
-![landing-page](https://user-images.githubusercontent.com/91314936/163555735-54b99dd8-05df-441e-a665-a79d29fa286a.PNG)
+
+![landing-page](https://user-images.githubusercontent.com/91314936/163797755-4e7f052d-ea15-43fe-b2e6-b766163d722f.PNG)
+
 
 🐱‍🚀  Worked on the form 
